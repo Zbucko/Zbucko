@@ -18,7 +18,8 @@ Throughout my studies at the Faculty of Technical Sciences, I've worked with a v
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-%236A0DAD.svg?style=flat&logo=julia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%23FF6C37.svg?style=flat&logo=amd&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%234285F4.svg?style=flat&logo=gnu-bash&logoColor=white)
+
 
 
 ---
