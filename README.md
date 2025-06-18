@@ -26,7 +26,7 @@ Throughout my studies at the Faculty of Technical Sciences, I've worked with a v
 
 **Demonstrator – Computer Architecture Course**  
 *Faculty of Technical Sciences, University of Novi Sad*  
-🗓️ Academic Year: [add year, e.g., 2023/2024]
+🗓️ Academic Year: [Feb. 2023-June 2023]
 
 - Assisted the teaching assistant during lab sessions focused on **Assembly programming (x86 architecture)**
 - Helped students understand low-level computer concepts such as registers, memory addressing, and instruction execution
@@ -44,6 +44,6 @@ Throughout my studies at the Faculty of Technical Sciences, I've worked with a v
 
 ### 📫 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-zbucnovic/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luka.zbucnovic@gmail.com)
 
