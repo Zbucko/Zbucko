@@ -19,6 +19,8 @@ Throughout my studies at the Faculty of Technical Sciences, I've worked with a v
 ![Julia](https://img.shields.io/badge/Julia-%236A0DAD.svg?style=flat&logo=julia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat&logo=chip&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 
 
 
